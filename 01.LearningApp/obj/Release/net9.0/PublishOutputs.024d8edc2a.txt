@@ -1,0 +1,7 @@
+D:\My Course\Udemy\Azure_AZ_204\Code\01.LearningApp\bin\publish\01.LearningApp.exe
+D:\My Course\Udemy\Azure_AZ_204\Code\01.LearningApp\bin\publish\appsettings.Development.json
+D:\My Course\Udemy\Azure_AZ_204\Code\01.LearningApp\bin\publish\appsettings.json
+D:\My Course\Udemy\Azure_AZ_204\Code\01.LearningApp\bin\publish\01.LearningApp.dll
+D:\My Course\Udemy\Azure_AZ_204\Code\01.LearningApp\bin\publish\01.LearningApp.deps.json
+D:\My Course\Udemy\Azure_AZ_204\Code\01.LearningApp\bin\publish\01.LearningApp.runtimeconfig.json
+D:\My Course\Udemy\Azure_AZ_204\Code\01.LearningApp\bin\publish\01.LearningApp.pdb
